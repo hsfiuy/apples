@@ -1,0 +1,27 @@
+#items{
+    color:darkorchid;
+}
+.heading{
+    width:100%;
+    margin-top: 0;
+    font-size: 30px;
+}
+body{
+    background-size: cover;
+}
+canvas{
+    border-radius: 20px;
+    border: 10px solid white;
+    margin-top: 130px;
+    box-shadow: 100px 100px 100px gray;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    color: brown;
+    width: 100%;
+    line-height: 2;
+    text-align: center;
+    font-size: 20px;
+    background-color: aquamarine;
+}
